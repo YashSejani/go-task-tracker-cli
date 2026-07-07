@@ -262,6 +262,14 @@ No third-party libraries or CLI frameworks are used.
 
 ---
 
+## Project Specification
+
+This project is built by following the **Task Tracker** project specification from **roadmap.sh**.
+
+ **Project Page:** https://roadmap.sh/projects/task-tracker
+
+---
+
 # License
 
 This project is intended for learning purposes and follows the specifications provided by roadmap.sh.
