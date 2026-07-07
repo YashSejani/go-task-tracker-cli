@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "description": "Learn Backend",
+        "status": "in-progress",
+        "created_at": "2026-07-06T23:36:52.0464255+05:30",
+        "updated_at": "2026-07-06T23:36:52.0464255+05:30"
+    },
+    {
+        "id": 2,
+        "description": "Build Portfolio Website",
+        "status": "done",
+        "created_at": "2026-07-06T23:36:52.0464255+05:30",
+        "updated_at": "2026-07-07T01:35:24.0682723+05:30"
+    },
+    {
+        "id": 3,
+        "description": "LeetCode 425",
+        "status": "todo",
+        "created_at": "2026-07-06T23:58:35.1087784+05:30",
+        "updated_at": "2026-07-07T00:35:27.6708912+05:30"
+    },
+    {
+        "id": 4,
+        "description": "Push Code to GitHub",
+        "status": "todo",
+        "created_at": "2026-07-07T23:45:29.3269277+05:30",
+        "updated_at": "2026-07-07T23:45:29.3269277+05:30"
+    },
+    {
+        "id": 5,
+        "description": "Drink Water",
+        "status": "todo",
+        "created_at": "2026-07-08T00:20:00.4304485+05:30",
+        "updated_at": "2026-07-08T00:20:00.4304485+05:30"
+    }
+]
